@@ -1,0 +1,9 @@
+.containe{
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: 300px 1fr 1fr;
+}
+.grid-item{
+    background: #000;
+    color: white;
+}
